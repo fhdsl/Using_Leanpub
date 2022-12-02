@@ -47,4 +47,16 @@ cow::borrow_chapter(
 ```
 ::::
 
+# Starting a Course
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/starting_a_course.Rmd",
+  branch = "setup",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
 # (PART\*) Guide for Course Developers {-}
