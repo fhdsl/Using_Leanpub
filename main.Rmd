@@ -1,4 +1,6 @@
 
+# (PART\*) Guide for Students {-}
+
 # What is Leanpub
 
 :::: {.borrowed_chunk}
@@ -44,3 +46,5 @@ cow::borrow_chapter(
 )
 ```
 ::::
+
+# (PART\*) Guide for Course Developers {-}
