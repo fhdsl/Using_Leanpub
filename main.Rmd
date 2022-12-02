@@ -1,0 +1,74 @@
+
+# (PART\*) Guide for Students {-}
+
+# What is Leanpub
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/what_is_leanpub.Rmd",
+  branch = "setup",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
+# Make a Leanpub Account
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/make_an_account.Rmd",
+  branch = "setup",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
+# Find a Course
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/find_a_course.Rmd",
+  branch = "setup",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/hutch_homepage.Rmd",
+  branch = "setup",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
+# Start a Course
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/start_a_course.Rmd",
+  branch = "setup",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
+# Navigate a Course
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/navigate_a_course.Rmd",
+  branch = "setup",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
+# (PART\*) Guide for Course Developers {-}
