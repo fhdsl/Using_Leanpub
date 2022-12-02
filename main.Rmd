@@ -47,12 +47,24 @@ cow::borrow_chapter(
 ```
 ::::
 
-# Starting a Course
+# Start a Course
 
 :::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/starting_a_course.Rmd",
+  doc_path = "child/start_a_course.Rmd",
+  branch = "setup",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
+# Navigate a Course
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/navigate_a_course.Rmd",
   branch = "setup",
   repo_name = "fhdsl/Using_Leanpub"
 )

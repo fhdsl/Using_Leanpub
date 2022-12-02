@@ -29,6 +29,8 @@ You can get back to the course by clicking the hamburger menu, selecting "Librar
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_68")
 ```
 
+You should see your course listed in your "Courses" tab.
+
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_75")
 ```
