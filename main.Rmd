@@ -10,3 +10,15 @@ cow::borrow_chapter(
 )
 ```
 ::::
+
+# Make a Leanpub Account
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/make_an_account.Rmd",
+  branch = "setup",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::

@@ -17,7 +17,7 @@ knitr::write_bib(c(
 ), "packages.bib")
 ```
 
-# Overview
+# Overview {-}
 
 The goal of this book is to make using the Leanpub course platform easier!
 
