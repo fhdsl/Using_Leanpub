@@ -4,3 +4,5 @@ Leanpub is a platform where authors self-publish ebooks and online courses. It's
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1965a5f7f0a_0_44")
 ```
+
+

@@ -16,3 +16,5 @@ Confirm you are logged in. You should see your name. This is important for putti
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Click on the 'Sign up' button to start the account making process."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_18")
 ```
+
+
