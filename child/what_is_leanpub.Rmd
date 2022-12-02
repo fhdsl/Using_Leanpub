@@ -1,0 +1,6 @@
+
+Leanpub is ...
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Major point!! example image"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1YmwKdIy9BeQ3EShgZhvtb3MgR8P6iDX4DfFD65W_gdQ/edit#slide=id.gcc4fbee202_0_141")
+```

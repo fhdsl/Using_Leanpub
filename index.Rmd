@@ -1,5 +1,5 @@
 ---
-title: "FHDaSL Book Name"
+title: "Using Leanpub"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -17,5 +17,7 @@ knitr::write_bib(c(
 ), "packages.bib")
 ```
 
-# About this Book {-}
+# Overview
+
+The goal of this book is to make using the Leanpub course platform easier!
 
