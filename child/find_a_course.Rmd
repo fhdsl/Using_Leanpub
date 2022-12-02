@@ -1,5 +1,5 @@
 
-You can use the search function to find a topic you are interested in. For example, you might search "cluster 101".
+You can use the Leanpub search function to find a topic you are interested in. For example, you might go to https://leanpub.com/ and search "cluster 101".
 
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_26")

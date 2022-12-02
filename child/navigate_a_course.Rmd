@@ -1,5 +1,5 @@
 
-The front page of the course will look like this. You will see table of contents links on the left and the course materials on the right. 
+The front page of a Leanpub course looks like this. You will see a table of contents on the left and the course materials on the right. 
 
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_106")
@@ -15,7 +15,7 @@ You can also locate any quizzes associated with the course.
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_114")
 ```
 
-Click anywhere on the course materials panel to enlarge it.
+Click anywhere on the course materials panel to enlarge the content.
 
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_128")
