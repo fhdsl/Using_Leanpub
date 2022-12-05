@@ -1,0 +1,25 @@
+
+You will need to follow a few steps to get a certificate of completion in Leanpub.
+
+1. You should make sure that you have completed any quizzes for the course and are happy with your score.
+
+1. You should also make sure that your name is filled out in your profile at https://leanpub.com/user_dashboard/settings. Otherwise, your certificate will be anonymous!
+
+    ```{r, echo=FALSE, fig.alt='The name "Fred Hutch" has been filled out on the user profile page.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_0")
+    ```
+
+1. Go to your course homepage. You can find your course homepage by going to https://leanpub.com/user_dashboard/courses and clicking on the correct course.
+
+1. Click on "Complete Course". You will be able to see your scores.
+ 
+    ```{r, echo=FALSE, fig.alt='The Complete Course button on the course homepage is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1BQxrVYdKZTbpCaF-i_q9w7s9x034lEXpQZDU-Sl09cs/edit#slide=id.g162fb43cc93_0_28")
+    ```
+    
+ 1. Click on "Generate Certificate". Your certificate will be emailed to you!
+ 
+    ```{r, echo=FALSE, fig.alt='The Generate Certificate button on the course summary page is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1BQxrVYdKZTbpCaF-i_q9w7s9x034lEXpQZDU-Sl09cs/edit#slide=id.g162fb43cc93_0_32")
+    ```
+    
