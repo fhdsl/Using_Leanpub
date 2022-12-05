@@ -71,4 +71,16 @@ cow::borrow_chapter(
 ```
 ::::
 
+# Get a Certificate of Completion
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/get_a_certificate.Rmd",
+  branch = "certificate",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
 # (PART\*) Guide for Course Developers {-}
