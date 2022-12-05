@@ -1,0 +1,15 @@
+
+Adding an editor to an organization makes it easy to add and update courses. 
+
+1. Click on the hamburger menu, click on "Organization", and click the correct organization from the list. 
+
+    ```{r, echo=FALSE, fig.alt='The name "Fred Hutch" has been filled out on the user profile page.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_7")
+    ```
+    
+1. Click on the "Editors" tab and select "Add an Editor".
+
+    ```{r, echo=FALSE, fig.alt='The name "Fred Hutch" has been filled out on the user profile page.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_25")
+    ```
+    

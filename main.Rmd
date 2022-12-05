@@ -77,7 +77,7 @@ cow::borrow_chapter(
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/get_a_certificate.Rmd",
-  branch = "certificate",
+  branch = "main",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
@@ -91,7 +91,19 @@ cow::borrow_chapter(
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/check_org_account.Rmd",
-  branch = "certificate",
+  branch = "main",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
+# Add Organization Editor
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/add_org_editor.Rmd",
+  branch = "main",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
