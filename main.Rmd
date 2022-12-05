@@ -1,5 +1,5 @@
 
-# (PART\*) Guide for Students {-}
+# (PART\*) Guide for Learners {-}
 
 # What is Leanpub
 
@@ -71,4 +71,40 @@ cow::borrow_chapter(
 ```
 ::::
 
+# Get a Certificate of Completion
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/get_a_certificate.Rmd",
+  branch = "main",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
 # (PART\*) Guide for Course Developers {-}
+
+# Check your Organizational Account
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/check_org_account.Rmd",
+  branch = "main",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
+
+# Add Organization Editor
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/add_org_editor.Rmd",
+  branch = "main",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
