@@ -1,6 +1,6 @@
 ---
 title: "Using Leanpub"
-date: "December 02, 2022"
+date: "December 05, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
