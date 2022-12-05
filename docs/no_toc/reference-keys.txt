@@ -3,3 +3,6 @@ make-a-leanpub-account
 find-a-course
 start-a-course
 navigate-a-course
+get-a-certificate-of-completion
+check-your-organizational-account
+add-organization-editor
