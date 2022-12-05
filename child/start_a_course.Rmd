@@ -1,51 +1,51 @@
 
-You can start a course on Leanpub and come back at any time. First, click on the course you want to take. Click "Add Course to Cart". You will need to do this even if you take the course for free.
+You can start a course on Leanpub and come back at any time. 
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+1. First, click on the course you want to take. Click "Add Course to Cart". You will need to do this even if you take the course for free.
+
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_40")
-```
+    ```
 
-Click "Checkout with Free Purchase" if you are taking the course for free.
+1. Click "Checkout with Free Purchase" if you are taking the course for free.
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_47")
-```
+    ```
 
-Click "Complete Free Purchase".
+1. Click "Complete Free Purchase".
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_54")
-```
+    ```
 
-This takes you back to the home page, which can be a bit confusing!
+1. This takes you back to the home page, which can be a bit confusing! You can get back to the course by clicking the hamburger menu, selecting "Library", and "Courses". You can also go directly to https://leanpub.com/user_dashboard/courses.
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_61")
-```
+    ```
 
-You can get back to the course by clicking the hamburger menu, selecting "Library", and "Courses". You can also go directly to https://leanpub.com/user_dashboard/courses.
-
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_68")
-```
+    ```
 
-You should see your course listed in your "Courses" tab.
+1. You should see your course listed in your "Courses" tab.
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_75")
-```
+    ```
 
-Click on the course, and click "Go to course".
+1. Click on the course, and click "Go to course".
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_89")
-```
+    ```
 
-Click "Start the Course".
+1. Click "Start the Course".
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_99")
-```
+    ```
 
 
 
