@@ -84,3 +84,15 @@ cow::borrow_chapter(
 ::::
 
 # (PART\*) Guide for Course Developers {-}
+
+# Check your Organizational Account
+
+:::: {.borrowed_chunk}
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/check_org_account.Rmd",
+  branch = "certificate",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+::::
