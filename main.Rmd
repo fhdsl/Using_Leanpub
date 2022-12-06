@@ -31,7 +31,7 @@ cow::borrow_chapter(
 )
 ```
 
-:::: {.note}
+:::: {.notice}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/hutch_homepage.Rmd",

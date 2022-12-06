@@ -1,8 +1,6 @@
 
-You will need to follow a few steps to get a certificate of completion in Leanpub.
-
 :::: {.warning}
-Before moving on you should:
+_Before moving on you should:_
 
 1. Make sure that you have completed any quizzes for the course and are happy with your score.
 
@@ -12,6 +10,9 @@ Before moving on you should:
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_0")
     ```
 ::::
+
+
+You will need to follow a few steps to get a certificate of completion in Leanpub.
 
 1. Go to your course homepage. You can find your course homepage by going to https://leanpub.com/user_dashboard/courses and clicking on the correct course.
 
