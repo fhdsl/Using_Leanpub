@@ -83,6 +83,16 @@ cow::borrow_chapter(
 )
 ```
 
+# Add Organization Author
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/add_org_author.Rmd",
+  branch = "formatting",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+
 # Add Organization Editor
 
 ```{r, echo = FALSE, results='asis'}

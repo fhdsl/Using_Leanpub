@@ -1,5 +1,5 @@
 
-Adding an editor to an organization makes it easy to add and update courses. 
+Adding an editor to an organization makes it easy for them to add and update courses. Editors can always create a book or course in the organization, as well as invite authors to it.
 
 1. Click on the hamburger menu, click on "Organization", and click the correct organization from the list. 
 

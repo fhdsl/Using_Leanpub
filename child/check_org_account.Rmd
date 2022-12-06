@@ -14,6 +14,6 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun
     ```
 
 :::: {.notice}
-- [Instructions for adding an Author](hutchdatascience.org/Using_Leanpub/)
+- [Instructions for adding an Author](https://hutchdatascience.org/Using_Leanpub/add-organization-author.html)
 - [Instructions for adding an Editor](https://hutchdatascience.org/Using_Leanpub/add-organization-editor.html)
 ::::
