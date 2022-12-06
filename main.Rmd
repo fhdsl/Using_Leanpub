@@ -6,7 +6,7 @@
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/what_is_leanpub.Rmd",
-  branch = "main",
+  branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
@@ -16,7 +16,7 @@ cow::borrow_chapter(
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/make_an_account.Rmd",
-  branch = "main",
+  branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
@@ -26,7 +26,7 @@ cow::borrow_chapter(
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/find_a_course.Rmd",
-  branch = "main",
+  branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
@@ -35,7 +35,7 @@ cow::borrow_chapter(
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/hutch_homepage.Rmd",
-  branch = "main",
+  branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
@@ -46,7 +46,7 @@ cow::borrow_chapter(
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/start_a_course.Rmd",
-  branch = "main",
+  branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
@@ -56,7 +56,7 @@ cow::borrow_chapter(
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/navigate_a_course.Rmd",
-  branch = "main",
+  branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
@@ -66,7 +66,7 @@ cow::borrow_chapter(
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/get_a_certificate.Rmd",
-  branch = "main",
+  branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
@@ -78,7 +78,7 @@ cow::borrow_chapter(
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/check_org_account.Rmd",
-  branch = "main",
+  branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
@@ -88,7 +88,7 @@ cow::borrow_chapter(
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/add_org_editor.Rmd",
-  branch = "main",
+  branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
