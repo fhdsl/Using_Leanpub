@@ -24,3 +24,4 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun
 :::: {.warning}
 Invitations can only be sent to users who already have a Leanpub account.
 ::::
+
