@@ -5,7 +5,7 @@
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/what_is_leanpub.Rmd",
+  doc_path = "child/learner_about_leanpub.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -15,7 +15,7 @@ cow::borrow_chapter(
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/make_an_account.Rmd",
+  doc_path = "child/learner_make_an_account.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -25,7 +25,7 @@ cow::borrow_chapter(
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/find_a_course.Rmd",
+  doc_path = "child/learner_find_a_course.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -34,7 +34,7 @@ cow::borrow_chapter(
 :::: {.notice}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/hutch_homepage.Rmd",
+  doc_path = "child/learner_hutch_homepage.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -45,7 +45,7 @@ cow::borrow_chapter(
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/start_a_course.Rmd",
+  doc_path = "child/learner_start_a_course.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -55,7 +55,7 @@ cow::borrow_chapter(
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/navigate_a_course.Rmd",
+  doc_path = "child/learner_navigate_a_course.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -65,7 +65,7 @@ cow::borrow_chapter(
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/get_a_certificate.Rmd",
+  doc_path = "child/learner_get_a_certificate.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -87,7 +87,7 @@ cow::borrow_chapter(
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/organization_account.Rmd",
+  doc_path = "child/developer_organization_account.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -97,7 +97,7 @@ cow::borrow_chapter(
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/confirm_role.Rmd",
+  doc_path = "child/developer_confirm_role.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -105,11 +105,11 @@ cow::borrow_chapter(
 
 # (PART\*) Guide for Authors {-}
 
-# Add a Course as an Author
+# Create a Course
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/add_a_course_authors.Rmd",
+  doc_path = "child/author_create_course.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -121,7 +121,7 @@ cow::borrow_chapter(
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/add_org_author.Rmd",
+  doc_path = "child/editor_add_author.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -131,7 +131,17 @@ cow::borrow_chapter(
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/add_org_editor.Rmd",
+  doc_path = "child/editor_add_editor.Rmd",
+  branch = "formatting",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+
+# Invite an Author's Course
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/editor_invite_course.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
@@ -141,7 +151,7 @@ cow::borrow_chapter(
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/add_a_course_editors.Rmd",
+  doc_path = "child/editor_create_course.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )

@@ -1,0 +1,38 @@
+
+:::: {.warning}
+_Before proceeding you should:_
+
+1. Make sure that you have verified your email. Go to https://leanpub.com/author_dashboard/courses/unpublished and click the link to resend a verification email if you haven't yet verified your account.
+
+    ```{r, echo=FALSE, fig.alt='If our email has not been verified, we get a landing page that requests we do this. There is a link to resend verification.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_89")
+    ```
+::::
+
+1. Go to https://leanpub.com/create/course. If your page looks different from below, make sure your email is verified (above). 
+
+    ```{r, echo=FALSE, fig.alt='The strating page to create a book or course.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_101")
+    ```
+    
+1. Fill in a title and URL. Select "In your browser on Leanpub". We will change this to "Using Git and Github" shortly.
+
+    ```{r, echo=FALSE, fig.alt='The title is Programming 101, the url is programming101. The In your browser on Leanpub box is selected.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_107")
+    ```
+
+1. Ensure you have selected the "FREE" plan.
+
+    ```{r, echo=FALSE, fig.alt='The FREE checkout option has been selected.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_116")
+    ```
+    
+1. Click "Sign up for the Free plan".
+
+    ```{r, echo=FALSE, fig.alt='The FREE checkout option has been selected.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_116")
+    ```
+    
+1. Once you have the course link, you should send this link to an editor of your organization. For example, you'd send https://leanpub.com/course_admin/leanpub/programming101.
+
+
