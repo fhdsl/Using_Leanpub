@@ -8,13 +8,13 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun
 
 1. Fill out your name and email. Choose a username and password and click "Create Account".
 
-    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Click on the 'Sign up' button to start the account making process."}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_1")
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Fred Hutch is filled in as name, hutchdasl at gmail.com is filled in as email, fredhutch22 is filled in as username, and a hidden password is typed in. The create an account button is highlighted."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_9")
     ```
 
 1. Confirm you are logged in. You should see your name above your email address.
 
-    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Click on the 'Sign up' button to start the account making process."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The user name and email are listed at the bottom of the hamburger dropdown menu."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_18")
     ```
 

@@ -3,13 +3,13 @@ You will need to be part of a paid plan or paid organizational plan to publish c
 
 1. Check your user menu. If you see an organization listed, you are probably set up correctly. 
 
-    ```{r, echo=FALSE, fig.alt='The name "Fred Hutch" has been filled out on the user profile page.', out.width = '100%'}
+    ```{r, echo=FALSE, fig.alt='The Fred Hutchinson Cancer Center is listed under the organization tab in the hamburger menu.', out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_7")
     ```
     
 1. If you do not see an organization listed, you should contact your plan administrator and have them add you to the organizational account using directions [here](hutchdatascience.org/Using_Leanpub/). Alternatively, you can use a personal paid account.
  
-    ```{r, echo=FALSE, fig.alt='The Complete Course button on the course homepage is highlighted.', out.width = '100%'}
+    ```{r, echo=FALSE, fig.alt='The Fred Hutchinson Cancer Center is not listed under the organization tab in the hamburger menu.', out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_15")
     ```
     

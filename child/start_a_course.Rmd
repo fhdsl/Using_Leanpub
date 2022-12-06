@@ -3,19 +3,19 @@ You can start a course on Leanpub and come back at any time.
 
 1. First, click on the course you want to take. Click "Add Course to Cart". You will need to do this even if you take the course for free.
 
-    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The button is highlighted on the Cluster 101 course landing page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_40")
     ```
 
 1. Click "Checkout with Free Purchase" if you are taking the course for free.
 
-    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The checkout with free purchase button is highlighted."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_47")
     ```
 
 1. Click "Complete Free Purchase".
 
-    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The complete free purchase button is highlighted."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_54")
     ```
 
@@ -25,27 +25,25 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_61")
     ```
 
-    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The library tab and courses sub-tab are highlighted from the dropdown hamburger menu."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_68")
     ```
 
 1. You should see your course listed in your "Courses" tab.
 
-    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub courses page lists one course, CLuster 101."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_75")
     ```
 
 1. Click on the course, and click "Go to course".
 
-    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Cluster 101 course has been expanded and now shows a 'go to course' option."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_89")
     ```
 
 1. Click "Start the Course".
 
-    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The course landing page now has the option to start the course."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_99")
     ```
-
-
 

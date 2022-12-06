@@ -3,12 +3,12 @@ You can use the Leanpub search function to find your course.
 
 1. First, you should search the course name or topic. For example, you might go to https://leanpub.com/ and search "cluster 101".
 
-    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page with 'cluster 101' typed in the search bar."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_26")
     ```
 
 1. If you scroll down in the search results, you'll see the Fred Hutch Cluster 101 course under "COURSES". Click on the course to learn more.
 
-    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Fred Hutch Cluster 101 course is the only thing that appears in the search result."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_33")
     ```
