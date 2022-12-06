@@ -12,10 +12,12 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_1")
     ```
 
-1. Confirm you are logged in. You should see your name. This is important for putting your name on a completion certificate later!
+1. Confirm you are logged in. You should see your name above your email address.
 
     ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Click on the 'Sign up' button to start the account making process."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_18")
     ```
 
-
+:::: {.warning}
+It is very important that you fill in your real name, otherwise it won't appear on your completion certificate later!
+::::

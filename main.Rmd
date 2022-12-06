@@ -1,7 +1,7 @@
 
 # (PART\*) Guide for Learners {-}
 
-# What is Leanpub
+# About Leanpub
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
@@ -31,7 +31,7 @@ cow::borrow_chapter(
 )
 ```
 
-:::: {.borrowed_chunk}
+:::: {.note}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/hutch_homepage.Rmd",

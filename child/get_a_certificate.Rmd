@@ -1,13 +1,17 @@
 
 You will need to follow a few steps to get a certificate of completion in Leanpub.
 
-1. You should make sure that you have completed any quizzes for the course and are happy with your score.
+:::: {.warning}
+Before moving on you should:
 
-1. You should also make sure that your name is filled out in your profile at https://leanpub.com/user_dashboard/settings. Otherwise, your certificate will be anonymous!
+1. Make sure that you have completed any quizzes for the course and are happy with your score.
+
+1. Make sure that your name is filled out in your profile at https://leanpub.com/user_dashboard/settings. Otherwise, your certificate will be completed by "anonymous"!
 
     ```{r, echo=FALSE, fig.alt='The name "Fred Hutch" has been filled out on the user profile page.', out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_0")
     ```
+::::
 
 1. Go to your course homepage. You can find your course homepage by going to https://leanpub.com/user_dashboard/courses and clicking on the correct course.
 
