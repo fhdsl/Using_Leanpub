@@ -103,3 +103,13 @@ cow::borrow_chapter(
 )
 ```
 
+# Confirm your Role
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/confirm_role.Rmd",
+  branch = "formatting",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+
