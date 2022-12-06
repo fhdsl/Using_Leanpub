@@ -1,0 +1,12 @@
+
+As a course developer on Leanpub, you can have one of two roles:
+
+1. **Author**
+
+     An author gets credit for creating the course. Authors can propose that an organization should publish their books and courses. Authors still need an editor to approve any books or courses for an organization to publish them. 
+
+1. **Editor**
+
+     An editor can author courses and also has the power to approve/publish courses and invite other editors.
+     
+     

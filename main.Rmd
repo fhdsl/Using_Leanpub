@@ -71,17 +71,51 @@ cow::borrow_chapter(
 )
 ```
 
-# (PART\*) Guide for Course Developers {-}
+# (PART\*) Guide for Developers {-}
+
+# Developer Roles
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/developer_roles.Rmd",
+  branch = "formatting",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
 
 # Organizational Accounts
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/check_org_account.Rmd",
+  doc_path = "child/organization_account.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
+
+# Confirm your Role
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/confirm_role.Rmd",
+  branch = "formatting",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+
+# (PART\*) Guide for Authors {-}
+
+# Add a Course as an Author
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/add_a_course_authors.Rmd",
+  branch = "formatting",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+
+# (PART\*) Guide for Editors {-}
 
 # Add Organization Author
 
@@ -103,13 +137,12 @@ cow::borrow_chapter(
 )
 ```
 
-# Confirm your Role
+# Add a Course as an Editor
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/confirm_role.Rmd",
+  doc_path = "child/add_a_course_editors.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
-

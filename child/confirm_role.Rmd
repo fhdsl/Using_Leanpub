@@ -1,5 +1,5 @@
 
-When you are invited to an organization, you will need to accept the invitation from another member of the organization.
+When you are invited to an organization as an author or editor, you will need to accept the invitation from another member of the organization.
 
 1. You should see a notification on the hamburger menu. Click on the hamburger menu, and then click on "Notifications". 
 
