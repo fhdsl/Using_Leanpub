@@ -3,7 +3,6 @@
 
 # What is Leanpub
 
-:::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/what_is_leanpub.Rmd",
@@ -11,11 +10,9 @@ cow::borrow_chapter(
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
-::::
 
 # Make a Leanpub Account
 
-:::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/make_an_account.Rmd",
@@ -23,11 +20,9 @@ cow::borrow_chapter(
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
-::::
 
 # Find a Course
 
-:::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/find_a_course.Rmd",
@@ -35,7 +30,6 @@ cow::borrow_chapter(
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
-::::
 
 :::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
@@ -49,7 +43,6 @@ cow::borrow_chapter(
 
 # Start a Course
 
-:::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/start_a_course.Rmd",
@@ -57,11 +50,9 @@ cow::borrow_chapter(
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
-::::
 
 # Navigate a Course
 
-:::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/navigate_a_course.Rmd",
@@ -69,11 +60,9 @@ cow::borrow_chapter(
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
-::::
 
 # Get a Certificate of Completion
 
-:::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/get_a_certificate.Rmd",
@@ -81,13 +70,11 @@ cow::borrow_chapter(
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
-::::
 
 # (PART\*) Guide for Course Developers {-}
 
 # Check your Organizational Account
 
-:::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/check_org_account.Rmd",
@@ -95,11 +82,9 @@ cow::borrow_chapter(
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
-::::
 
 # Add Organization Editor
 
-:::: {.borrowed_chunk}
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
   doc_path = "child/add_org_editor.Rmd",
@@ -107,4 +92,4 @@ cow::borrow_chapter(
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
-::::
+
