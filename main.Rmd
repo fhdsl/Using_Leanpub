@@ -105,7 +105,7 @@ cow::borrow_chapter(
 
 # (PART\*) Guide for Authors {-}
 
-# Create a Course
+# Create a Course for Authors
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
@@ -117,7 +117,7 @@ cow::borrow_chapter(
 
 # (PART\*) Guide for Editors {-}
 
-# Add Organization Author
+# Add an Author
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
@@ -127,7 +127,7 @@ cow::borrow_chapter(
 )
 ```
 
-# Add Organization Editor
+# Add an Editor
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
@@ -147,7 +147,7 @@ cow::borrow_chapter(
 )
 ```
 
-# Add a Course as an Editor
+# Create a Course for Editors
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
