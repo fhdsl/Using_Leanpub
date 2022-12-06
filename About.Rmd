@@ -16,7 +16,7 @@ These credits are based on our [course contributors table guidelines](https://ww
 |Template Publishing Engineers|[Candace Savonen], [Carrie Wright]|
 |Publishing Maintenance Engineer|[Candace Savonen]|
 |Technical Publishing Stylists|[Carrie Wright], [Candace Savonen]|
-|Package Developers ([ottrpal]) [Candace Savonen], [John Muschelli], [Carrie Wright]|
+|Package Developers ([ottrpal])| [Candace Savonen], [John Muschelli], [Carrie Wright]|
 
 &nbsp;
 
