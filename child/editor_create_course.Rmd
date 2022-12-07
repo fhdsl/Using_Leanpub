@@ -9,30 +9,34 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun
     ```
 ::::
 
-1. Go to https://leanpub.com/create/course. If your page looks different from below, make sure your email is verified (above). 
+1. Click on the hamburger menu, click on "Organization", and click the correct organization from the list. 
 
-    ```{r, echo=FALSE, fig.alt='The strating page to create a book or course.', out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_101")
+    ```{r, echo=FALSE, fig.alt='The organization tab is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_7")
     ```
     
-1. Fill in a title and URL. Select "In your browser on Leanpub". We will change this to "Using Git and Github" shortly.
+1. Select the "Courses" tab and select "Create a new course".
 
-    ```{r, echo=FALSE, fig.alt='The title is Programming 101, the url is programming101. The In your browser on Leanpub box is selected.', out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_107")
+    ```{r, echo=FALSE, fig.alt='The courses tab and create a new course button are highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_206")
     ```
 
-1. Ensure you have selected the "FREE" plan.
+1. On the new course page, make sure "write it yourself" is selected.
 
-    ```{r, echo=FALSE, fig.alt='The FREE checkout option has been selected.', out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_116")
-    ```
-    
-1. Click "Sign up for the Free plan".
-
-    ```{r, echo=FALSE, fig.alt='The FREE checkout option has been selected.', out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_116")
+    ```{r, echo=FALSE, fig.alt='The write it yourself option is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_214")
     ```
     
-1. Once you have the course link, you should send this link to an editor of your organization. For example, you'd send https://leanpub.com/course_admin/leanpub/programming101.
+1. Fill in a title and URL. Select "Using Git and Github".
+
+    ```{r, echo=FALSE, fig.alt='The title is Programming 201, the url is programming201. The Using Git and GitHub writing mode box is selected.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b34b732d40_2_0")
+    ```
+
+1. Select "Add to plan".
+
+    ```{r, echo=FALSE, fig.alt='The add to plan button at the bottom of the page is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b34b732d40_2_16")
+    ```
 
 

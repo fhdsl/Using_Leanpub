@@ -115,6 +115,16 @@ cow::borrow_chapter(
 )
 ```
 
+# Accepting Organization Invitation
+
+```{r, echo = FALSE, results='asis'}
+cow::borrow_chapter(
+  doc_path = "child/author_accept_invite.Rmd",
+  branch = "formatting",
+  repo_name = "fhdsl/Using_Leanpub"
+)
+```
+
 # (PART\*) Guide for Editors {-}
 
 # Add an Author
