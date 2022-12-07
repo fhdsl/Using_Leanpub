@@ -1,14 +1,15 @@
+
 Use the following steps to create a new Leanpub account.
 
 1. Click on the hamburger menu on the top right and click the "Sign Up" button.
 
-:::: {.notice}
-You can also go directly to https://leanpub.com/sign_up.
-::::
-
     ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Click on the 'Sign up' button to start the account making process."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_1")
     ```
+
+    :::: {.notice}
+    You can also go directly to https://leanpub.com/sign_up.
+    ::::
 
 1. Fill out your name and email. Choose a username and password and click "Create Account".
 
