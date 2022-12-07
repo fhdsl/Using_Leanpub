@@ -26,3 +26,10 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun
 :::: {.notice}
 Clicking to enlarge the content also allows you to interact with the content, for example copying text or clicking links.
 ::::
+
+1. Click the "X" on the top right to exit the enlarged view and go back to the table of contents view.
+
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The enlarged view can be closed by clicking on the X on the top right."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b34b732d40_2_50")
+    ```
+
