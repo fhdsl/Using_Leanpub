@@ -23,7 +23,7 @@ knitr::write_bib(c(
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b34b732d40_2_22")
 ```
 
-The goal of this book is to make using the Leanpub course platform easier!
+The goal of this book is to make using the [Leanpub](https://leanpub.com) course platform easier!
 
 If you are a **learner** hoping to use Leanpub, check out the "Guide for Learners" tab on the left.
 

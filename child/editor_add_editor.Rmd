@@ -1,5 +1,7 @@
 
-_**You must be editor to add another editor to an organization.**_
+:::: {.warning}
+You must be editor to add another editor to an organization.
+::::
 
 Adding an editor to an organization makes it easy for them to add and update courses. Editors can always create a book or course in the organization, as well as invite authors to it.
 

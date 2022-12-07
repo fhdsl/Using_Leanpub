@@ -1,5 +1,7 @@
 
-_**You must be editor to add an author to an organization.**_
+:::: {.warning}
+You must be editor to add an author to an organization.
+::::
 
 Adding an author to an organization makes it easy for them to request publication. Authors can propose that an organization should publish their books and courses. Authors still need an editor to approve any books or courses for your organization to publish them. 
 

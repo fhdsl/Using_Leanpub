@@ -8,5 +8,7 @@ As a course developer on Leanpub, you can have one of two roles:
 1. **Editor**
 
      An editor can author courses and also has the power to approve/publish courses and invite other editors.
-     
+
+:::: {.warning} 
 If you have not already, ensure you have [created an account on Leanpub](https://hutchdatascience.org/Using_Leanpub/make-a-leanpub-account.html).
+::::

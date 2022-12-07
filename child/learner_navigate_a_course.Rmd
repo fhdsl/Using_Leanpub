@@ -22,3 +22,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun
     ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The leanpub course materials content now fills the browser screen."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_128")
     ```
+
+:::: {.notice}
+Clicking to enlarge the content also allows you to interact with the content, for example copying text or clicking links.
+::::
