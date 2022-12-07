@@ -3,5 +3,8 @@
 3-Find-a-Course.md
 4-Start-a-Course.md
 5-Navigate-a-Course.md
+6-Get-a-Certificate-of-Completion.md
+7-Check-your-Organizational-Account.md
+8-Add-Organization-Editor.md
 Overview.md
 About-the-Authors.md
