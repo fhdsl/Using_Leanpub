@@ -9,6 +9,7 @@ DataTrail
 Dockerfile
 Dockerhub
 dropdown
+ebooks
 favicon
 GDSCN
 GitHub
@@ -26,6 +27,7 @@ NCI
 NHGRI
 ottrpal
 Pandoc
+programmatically
 UE
 UE5
 reproducibility

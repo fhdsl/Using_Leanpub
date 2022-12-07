@@ -1,0 +1,21 @@
+
+When you are invited to an organization as an author or editor, you will need to accept the invitation from another member of the organization.
+
+1. You should see a notification on the hamburger menu. Click on the hamburger menu, and then click on "Notifications". 
+
+    ```{r, echo=FALSE, fig.alt='The hamburger dropdown menu is expanded and the notifications link is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_58")
+    ```
+    
+1. On the invitation notification, click "View".
+
+    ```{r, echo=FALSE, fig.alt='There is a new notification listed that we have been invited to be an author. We have the option to view the notification.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_75")
+    ```
+
+1. Click "Accept Invitation".
+
+    ```{r, echo=FALSE, fig.alt='There are buttons to accept or decline the invitation to be an author with Fred Hutchinson Cancer Center on Leanpub.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_82")
+    ```
+    

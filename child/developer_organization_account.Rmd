@@ -1,0 +1,19 @@
+
+Leanpub has both free and paid plans for authors. However, you will need to be part of a paid plan or paid organizational plan. This will enable you to publish programmatically using a GitHub repository.
+
+1. Check your user menu. If you see an organization listed, you are set up as an editor. 
+
+    ```{r, echo=FALSE, fig.alt='The Fred Hutchinson Cancer Center is listed under the organization tab in the hamburger menu.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_7")
+    ```
+    
+1. If you do not see an organization listed, you are not set up as an editor.
+ 
+    ```{r, echo=FALSE, fig.alt='The Fred Hutchinson Cancer Center is not listed under the organization tab in the hamburger menu.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_15")
+    ```
+
+:::: {.notice}
+Contact an editor or administrator from your organization to be added as an author or editor.
+::::
+
