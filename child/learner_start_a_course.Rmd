@@ -1,7 +1,13 @@
 
 You can start a course on Leanpub and come back at any time. 
 
-1. First, click on the course you want to take. Click "Add Course to Cart". You will need to do this even if you take the course for free.
+1. First, click on the course you want to take. You can then drag the slider or type in a number for the price you want to pay.
+
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The price slider is highlighted."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b34b732d40_2_34")
+    ```
+
+1. Click "Add Course to Cart". You will need to do this even if you take the course for free.
 
     ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The button is highlighted on the Cluster 101 course landing page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_40")
