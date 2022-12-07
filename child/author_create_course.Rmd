@@ -29,8 +29,8 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun
     
 1. Click "Sign up for the Free plan".
 
-    ```{r, echo=FALSE, fig.alt='The FREE checkout option has been selected.', out.width = '100%'}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_116")
+    ```{r, echo=FALSE, fig.alt='The sign up for the free plan is selected.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_124")
     ```
     
 1. Once you have the course link, you should send this link to an editor of your organization. For example, you'd send https://leanpub.com/course_admin/leanpub/programming101.

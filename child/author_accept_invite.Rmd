@@ -1,6 +1,6 @@
 You will need to make a few updates to your Leanpub course to finalize setup.
 
-1. Go to https://leanpub.com/author_dashboard/invitations/pending. You should see an invitation. If you do not see an invitation for your course, check with your editor to ensure they have sent the invitation. Click "Accept".
+1. Go to https://leanpub.com/author_dashboard/invitations/pending. You should see an invitation for your course. If you do not see an invitation for your course, check with your editor to ensure they have sent the invitation. Click "Accept".
 
     ```{r, echo=FALSE, fig.alt='On the invitations tab, there is an invitation for the Programming101 course from the Fred Hutchinson Cancer Center organization.', out.width = '100%'}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_147")

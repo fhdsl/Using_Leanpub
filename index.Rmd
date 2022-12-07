@@ -19,5 +19,12 @@ knitr::write_bib(c(
 
 # Overview {-}
 
+    ```{r, echo=FALSE, fig.alt='This course is about using Leanpub for learners and educators.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b34b732d40_2_22")
+    ```
+
 The goal of this book is to make using the Leanpub course platform easier!
 
+If you are a **Learner** hoping to use Leanpub, check out the "Guide for Learners" tab on the left.
+
+If you are an educator or developer hoping to use Leanpub to create courses, check out the "Guide for Developers". There, you can determine your role as a course writer.
