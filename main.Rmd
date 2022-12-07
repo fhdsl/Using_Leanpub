@@ -1,15 +1,15 @@
 
-# (PART\*) Guide for Learners {-}
-
 # About Leanpub
 
 ```{r, echo = FALSE, results='asis'}
 cow::borrow_chapter(
-  doc_path = "child/learner_about_leanpub.Rmd",
+  doc_path = "child/about_leanpub.Rmd",
   branch = "formatting",
   repo_name = "fhdsl/Using_Leanpub"
 )
 ```
+
+# (PART\*) Guide for Learners {-}
 
 # Make a Leanpub Account
 
