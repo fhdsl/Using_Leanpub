@@ -1,0 +1,29 @@
+
+:::: {.warning}
+You must be editor to add an author to an organization.
+::::
+
+Adding an author to an organization makes it easy for them to request publication. Authors can propose that an organization should publish their books and courses. Authors still need an editor to approve any books or courses for your organization to publish them. 
+
+1. Click on the hamburger menu, click on "Organization", and click the correct organization from the list. 
+
+    ```{r, echo=FALSE, fig.alt='The organization tab is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_7")
+    ```
+    
+1. Click on the "Authors" tab and select "Invite an Author".
+
+    ```{r, echo=FALSE, fig.alt='The authors tab and invite an author button are highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_45")
+    ```
+
+1. Fill out the new author's email and click "Send Invitation".
+
+    ```{r, echo=FALSE, fig.alt='The username or email field is filled with collaborator at university.edu and the send invitation button is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_51")
+    ```
+    
+:::: {.warning}
+Invitations can only be sent to users who already have a Leanpub account.
+::::
+

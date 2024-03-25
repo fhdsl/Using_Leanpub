@@ -1,0 +1,21 @@
+
+You might want to invite another author's course to your organization on Leanpub. You will need to do the following:
+
+1. Click on the hamburger menu, click on "Organization", and click the correct organization from the list. 
+
+    ```{r, echo=FALSE, fig.alt='The organization tab is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_7")
+    ```
+    
+1. Click on "Courses" and select the "Invite a Course" button.
+
+    ```{r, echo=FALSE, fig.alt='The Courses tab and invite a course button are highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_132")
+    ```
+
+1. Under "SLUG", add the last part of the Course URL. For example, if you are inviting https://leanpub.com/course_admin/leanpub/programming101, you would type "programming101". Then click the "Send Invitation" button.
+
+    ```{r, echo=FALSE, fig.alt='In the SLUG box, programming101 is entered and the send invitation button is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_139")
+    ```
+
