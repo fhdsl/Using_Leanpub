@@ -1,7 +1,8 @@
 bookdown::gitbook:
   css: assets/style.css
   includes:
-    before_body: assets/big-image_fhdasl.html, GA_Script.Rhtml
+    in_header: GA_Script.Rhtml
+    before_body: assets/big-image_fhdasl.html
     after_body: assets/footer.html
   split_bib: false
   highlight: tango
