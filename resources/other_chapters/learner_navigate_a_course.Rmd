@@ -1,0 +1,35 @@
+
+Each Leanpub course has a few different elements.
+
+1. The front page of a Leanpub course looks like this. You will see a table of contents on the left and the course materials on the right. 
+
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub course homepage with table of contents highlighted."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_106")
+    ```
+
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub course homepage with course materials highlighted."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_121")
+    ```
+
+1. You can also locate any quizzes associated with the course.
+
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub course homepage with quizzes tab highlighted."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_114")
+    ```
+
+1. Click anywhere on the course materials panel to enlarge the content.
+
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The leanpub course materials content now fills the browser screen."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1a357f576b0_0_128")
+    ```
+
+1. Click the "X" on the top right to exit the enlarged view and go back to the table of contents view.
+
+    ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The enlarged view can be closed by clicking on the X on the top right."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b34b732d40_2_50")
+    ```
+
+:::: {.notice}
+Clicking to enlarge the content also allows you to interact with the materials, for example copying text or clicking links.
+::::
+

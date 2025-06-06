@@ -1,0 +1,34 @@
+You will need to make a few updates to your Leanpub course to finalize setup.
+
+1. Go to https://leanpub.com/author_dashboard/invitations/pending. You should see an invitation for your course. If you do not see an invitation for your course, check with your editor to ensure they have sent the invitation. Click "Accept".
+
+    ```{r, echo=FALSE, fig.alt='On the invitations tab, there is an invitation for the Programming101 course from the Fred Hutchinson Cancer Center organization.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_147")
+    ```
+
+1. Select the "Courses" tab and select "Unpublished" from the menu. You should see your course. Click on your course.
+
+    ```{r, echo=FALSE, fig.alt='The Courses tab and Unpublished option from the left side menu are highlighted. An arrow points to the box for the course.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_154")
+    ```
+
+1. On the course homepage, select "Settings" and scroll down to select "Writing Mode".
+
+    ```{r, echo=FALSE, fig.alt='The Settings tab is highlighted and an arrow indicates to scroll down on the screen.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_162")
+    ```
+
+    ```{r, echo=FALSE, fig.alt='The Writing Mode option from the left side menu is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_170")
+    ```
+    
+1. Select the "GitHub" option. Fill in the link corresponding to your course repository on GitHub and click "Update your course".
+
+    ```{r, echo=FALSE, fig.alt='The GitHub writing mode is selected and "fhdsl/programming101" is filled in as the github link. The Update your course button is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_179")
+    ```
+    
+:::: {.warning}
+You must have a paid plan through your organization to use the GitHub writing mode.
+::::
+

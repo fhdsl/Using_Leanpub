@@ -1,0 +1,42 @@
+
+:::: {.warning}
+_Before proceeding you should:_
+
+1. Make sure that you have verified your email. Go to https://leanpub.com/author_dashboard/courses/unpublished and click the link to resend a verification email if you haven't yet verified your account.
+
+    ```{r, echo=FALSE, fig.alt='If our email has not been verified, we get a landing page that requests we do this. There is a link to resend verification.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_89")
+    ```
+::::
+
+1. Click on the hamburger menu, click on "Organization", and click the correct organization from the list. 
+
+    ```{r, echo=FALSE, fig.alt='The organization tab is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_7")
+    ```
+    
+1. Select the "Courses" tab and select "Create a new course".
+
+    ```{r, echo=FALSE, fig.alt='The courses tab and create a new course button are highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_206")
+    ```
+
+1. On the new course page, make sure "write it yourself" is selected.
+
+    ```{r, echo=FALSE, fig.alt='The write it yourself option is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b1ea0f5d51_0_214")
+    ```
+    
+1. Fill in a title and URL. Select "Using Git and Github".
+
+    ```{r, echo=FALSE, fig.alt='The title is Programming 201, the url is programming201. The Using Git and GitHub writing mode box is selected.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b34b732d40_2_0")
+    ```
+
+1. Select "Add to plan".
+
+    ```{r, echo=FALSE, fig.alt='The add to plan button at the bottom of the page is highlighted.', out.width = '100%'}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1b34b732d40_2_16")
+    ```
+
+

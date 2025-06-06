@@ -1,6 +1,6 @@
 ---
 title: "Using Leanpub"
-date: "May 02, 2024"
+date: "June 06, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
@@ -14,7 +14,7 @@ favicon: assets/favicon.ico
 
 # Overview {-}
 
-<img src="index_files/figure-html//1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU_g1b34b732d40_2_22.png" title="This course is about using Leanpub for learners and educators." alt="This course is about using Leanpub for learners and educators." width="100%" />
+<img src="index_files/figure-html//1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU_g1b34b732d40_2_22.png" alt="This course is about using Leanpub for learners and educators." width="100%" />
 
 The goal of this book is to make using the [Leanpub](https://leanpub.com) course platform easier!
 

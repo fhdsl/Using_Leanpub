@@ -1,0 +1,8 @@
+
+[Leanpub](https://leanpub.com) is a platform where authors self-publish ebooks and online courses. It's a great way to take courses for free while adding more functionality that a simple website. Paid courses also pay royalties to the authors.
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Leanpub home page."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1nKVYtTsawTHSxMun69U3GO9xT_xSQsJjTEabEb1qAuU/edit#slide=id.g1965a5f7f0a_0_44")
+```
+
+
